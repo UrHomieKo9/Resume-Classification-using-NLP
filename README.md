@@ -43,7 +43,7 @@ This system helps automate resume classification to support:
 ## 📂 Project Structure
 
 ```bash
-job-fit-ml/
+resume-classification-nlp/
 │
 ├── data/
 │   ├── raw/                # Original resume dataset
@@ -62,3 +62,4 @@ job-fit-ml/
 ├── app.py                  # FastAPI application
 ├── requirements.txt
 └── README.md
+
